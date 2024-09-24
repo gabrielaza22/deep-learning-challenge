@@ -1,2 +1,2 @@
 # deep-learning-challenge
-module_21
+module_21. Neural Network Model
