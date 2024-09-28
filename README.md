@@ -8,6 +8,8 @@ We started by identifying the target and the features of our dataset. For this d
 We encode the categorical values using “pd.get_dummies()”
 
 ![image](https://github.com/user-attachments/assets/c80a2e13-c0d9-4218-b44a-cd1a225318f8)
+![image](https://github.com/user-attachments/assets/a9d7cba2-b56a-4b8a-a028-d1a30f87cfa9)
+
 
  
 
